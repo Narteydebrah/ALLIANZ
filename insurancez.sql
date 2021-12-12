@@ -58,7 +58,7 @@ CREATE TABLE registers (
  nclaims INT,
  
  
- FOREIGN KEY (PersonID) REFERENCES Person (PersonID)
+ FOREIGN KEY (PersonID) REFERENCES person (PersonID)
 
 );
  

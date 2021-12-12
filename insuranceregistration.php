@@ -206,4 +206,4 @@ body{
 
 
 </body>
-</html>      
+</html>      mysql -uroot -pB4nf1RFX831s < insurance
